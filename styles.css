@@ -1,0 +1,25 @@
+body {
+    background: #1a1a1a;
+    color: #fff;
+    font-family: Arial;
+    text-align: center;
+    direction: rtl;
+}
+.container {
+    margin: 20px;
+}
+h1 {
+    color: #00ccff;
+    font-size: 24px;
+}
+button {
+    padding: 10px;
+    background: #007bff;
+    color: #fff;
+    border: none;
+}
+input {
+    padding: 5px;
+    margin: 5px;
+    width: 80px;
+}
